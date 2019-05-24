@@ -1,0 +1,72 @@
+@import "https://fonts.googleapis.com/css?family=Ubuntu";
+
+body
+{
+font-family: 'Ubuntu', sans-serif;
+background: url("../Imagenes/fondo2.jpg");
+}
+
+.titulo
+{
+text-align: center;
+color: #ffffff;
+}
+
+.contenido
+{
+  text-align: center;
+  color: #ffffff;
+  border-radius: 15px;
+  width: 500px;
+  margin: 0 auto;
+  background-color:#0080FF;
+}
+
+#box
+{
+  border-radius: 5px;
+  border: solid #0080FF;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#box2
+{
+  border-radius: 5px;
+  border: solid #0080FF;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#box3
+{
+  border-radius: 5px;
+  border: solid #0080FF;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#boton
+{
+
+  border-radius: 50px;
+  border: solid #58D3F7;
+  background-color: #58D3F7;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+#r3
+{
+  font-size: 25px;
+}
+
+.credito
+{
+  text-align: right;
+  font-size: 13px;
+  color: #58D3F7;
+}
